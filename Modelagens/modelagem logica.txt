@@ -1,0 +1,64 @@
+
+		BAIRRO(nome, longitude, latitude)
+			PK(nome)
+		
+		MUSEU(nome, numero, nome_rua, nome_bairro)
+			PK(nome)
+			FK(nome_bairro) ref BAIRRO.nome
+
+		TELEFONE_MUSEU(telefone, nome_museu)
+			FK(nome_museu) ref. MUSEU.nome
+			PK(nome_museu, telefone)
+
+		TEATRO(nome, numero, nome_rua, nome_bairro)    
+			PK(nome)
+			FK(nome_bairro) ref BAIRRO.nome
+
+		TELEFONE_TEATRO(telefone, nome_teatro)
+			FK(nome_teatro) ref TEATRO.nome
+			PK(telefone, nome_teatro)
+
+		EST_BIKE_RIO(codigo, nome, nome_rua, numero, nome_bairro) 
+			PK(codigo)
+			FK(nome_bairro) ref BAIRRO.nome
+
+		ACAD_TER_IDADE(local, numero, ponto_referencia, nome_bairro)
+			PK(local)
+			FK(nome_bairro) ref BAIRRO.nome
+
+		PRAIA(nome, numero, nome_bairro)
+			PK(praia)
+			FK(nome_bairro) ref BAIRRO.nome
+
+		NOME_RUA_PRAIA(logradouro)
+			PK(logradouro)
+
+		praia_esta_em(nome_praia, rua_logradouro)
+			PK(praia_nome, rua_logradouro)
+			FK(praia_nome) ref PRAIA.nome
+			FK(rua_logradouro) ref NOME_RUA_PRAIA.logradouro    <<<<----- parei de conferir aquix	
+
+		LINHA(nome, extensao, num_estacoes)
+			PK(nome)
+
+		RAMAL(nome, extensao, num_estacoes)
+			PK(nome)
+
+		ENDERECO(rua, numero)
+			PK(rua, numero)
+
+
+		BRT(nome, longitude, latitude, rua, num, nome_linha, nome_bairro)
+			PK(nome)
+			FK(nome_linha) ref LINHA.nome
+			FK(nome_bairro) ref BAIRRO.nome
+
+		SUPERVIA(nome, longitude, latitude, cep, sigla, nome_ramal, endereco_rua, endereco_numero)
+			PK(nome)
+			FK(nome_ramal) ref RAMAL.nome
+			FK(endereco_rua) ref ENDERECO.rua
+			FK(endereco_numero) ref ENDERECO.numero
+
+
+		METRO(nome, longitude, latitude, sigla, num_roletas_entrada, num_roletas_saida, num_elevadores)
+			PK(nome)
