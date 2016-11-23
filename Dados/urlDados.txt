@@ -1,0 +1,19 @@
+BAIRROS DO RIO DE JANEIRO - http://data.rio/dataset/bairros-do-rio-de-janeiro/resource/6da44946-550e-40da-af30-c893003a7371
+
+ACADEMIAS DA TERCEIRA IDADE - http://data.rio/dataset/academias-da-terceira-idade/resource/77e44259-714f-41dd-ae30-e1856f505abe
+
+ESTAÇÕES BRT TRANSCARIOCA - http://data.rio/dataset/brt-transcarioca-estacoes/resource/94b22b87-6df2-4a51-b712-819f8e516a88
+
+ESTAÇÕES BRT TRANSOESTE - http://data.rio/dataset/brt-transoeste-estacoes/resource/4685f634-6c25-4673-b400-b5342fecd941
+
+ESTAÇÕES METRÔ - http://data.rio/dataset/metro-estacoes/resource/1762f2b3-5617-4396-a0dc-857c81963cf5
+
+ESTAÇÕES SUPERVIA - http://data.rio/dataset/trem-supervia-estacoes/resource/4de0cf55-d8bc-45f3-9d13-d3f3d1cae750
+
+ESTÃÇÕES BICICLETÁRIO BIKE RIO - http://data.rio/dataset/bike-rio/resource/73b5aab5-9db5-4824-afaf-59862e052ad8
+
+MUSEUS DO RIO DE JANEIRO - http://data.rio/dataset/museus/resource/18e68385-755e-4094-b853-ff1339453b3c
+
+PRAIAS DO RIO DE JANEIRO - http://data.rio/dataset/praias-da-cidade-do-rio-de-janeiro/resource/b5518c52-004e-442a-9e71-9ea677e966fa
+
+TEATROS DO RIO DE JANEIRO - http://data.rio/dataset/teatros/resource/45e5e6ee-4d13-4dab-8811-48011acbb911

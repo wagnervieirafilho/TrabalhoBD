@@ -1,0 +1,50 @@
+estacao,horarioestacao,horariobilheteria,logradouro,numero,bairro,latitude,longitude
+Aeroporto de Jacarepaguá,05h à 01h,06h às 22h,Avenida Ayrton Senna,2550,Barra da Tijuca,-22.989039,-43.365826
+André Rocha,05h à 01h,06h às 22h,Rua Andre Rocha,687,Taquara,-22.929493,-43.373454
+Aracy Cabral,05h à 01h,06h às 22h,Avenida Nelson Cardoso,850,Tanque,-22.920156,-43.368215
+Arroio Pavuna,05h à 01h,06h às 22h,Estrada dos Bandeirantes,3997,Jacarepaguá,-22.955290,-43.377384
+Campinho,24h,24h,Rua Domingos Lopes,77,Madureira,-22.882132,-43.341905
+Capitão Menezes,24h,24h,Rua Cândido Benício,1236,Campinho,-22.892930,-43.348655
+Cardoso de Moraes - Viúva Garcia,24h,24h,Rua Cardoso de Moraes,448,Bonsucesso,-22.857428,-43.258105
+Centro Metropolitano,05h à 01h,06h às 22h,Avenida Embaixador Abelardo Bueno,201,Barra da Tijuca,-22.973397,-43.365665
+Curicica,24h,24h,Estrada dos Bandeirantes,5046,Jacarepaguá,-22.959863,-43.388709
+Divina Providência,05h à 01h,06h às 22h,Estrada dos Bandeirantes,2487,Taquara,-22.940681,-43.372582
+Galeão - Tom Jobim 1,24h,24h,Avenida Vinte de Janeiro - Aeroporto do Galeão,,Ilha do Governador,-22.811072,-43.251521
+Galeão - Tom Jobim 2,24h,24h,Avenida Vinte de Janeiro - Aeroporto do Galeão,,Ilha do Governador,-22.814853,-43.245413
+Guaporé,24h,06h às 22h,Avenida Braz de Pina,617,Vila da Penha,-22.837652,-43.289748
+Ibiapina,24h,06h às 22h,Rua Ibiapina,193,Olaria,-22.842424,-43.272571
+Ipase,24h,24h,Rua Cândido Benício,2785,Praça Seca,-22.904666,-43.357059
+Lourenço Jorge,24h,06h às 22h,Avenida Ayrton Senna,2000,Barra da Tijuca,-22.994623,-43.365908
+Madureira - Manaceia,24h,24h,,,,-22.877269,-43.336119
+Marambaia,05h à 01h,06h às 22h,Rua Luisa de Carvalho,51,Vicente de Carvalho,-22.853048,-43.320293
+Maré,24h,06h às 22h,Avenida Brigadeiro Trompowski,580,Maré,-22.847028,-43.243724
+Mercadão,24h,24h,Avenida Ministro Edigar Romero,245,Madureira,-22.870275,-43.335585
+Merck,24h,24h,Estrada dos Bandeirantes,1399,Taquara,-22.935205,-43.371897
+Olaria - Cacique de Ramos,24h,24h,Rua Etelvina,9,Olaria,-22.848549,-43.265470
+Otaviano,5h à 01h,06h às 22h,Avenida Ministro Edigar Romero,491,Madureira,-22.865786,-43.334371
+Pastor José Santos,24h,24h,Avenida Braz de Pina,337,Penha,-22.839078,-43.283324
+Pedro Correia,24h,06h às 22h,Estrada Coronel Pedro Correia,870,Jacarepaguá,-22.967654,-43.390628
+Pedro Taques,5h à 01h,06h às 22h,Avenida Vicente de Carvalho,1503,Penha Circular,-22.841410,-43.298766
+Penha 1,24h,06h às 22h,Avenida Braz de Pina,11,Penha,-22.839078,-43.283324
+Penha 2,24h,06h às 22h,Rua Monsenhor Alves Rocha,187,Penha,-22.841933,-43.276424
+Pinto Teles,04h à 01h,06h às 22h,Rua Cândido Benício,643,Campinho,-22.888422,-43.345959
+Praça Seca,24h,24h,Praça Seca,32,Praça Seca,-22.897721,-43.352272
+Praça do Bandolim,24h,24h,Estrada dos Bandeirantes,4450,Curicica,-22.958629,-43.383454
+Praça do Carmo,24h,06h às 22h,Avenida Braz de Pina,846,Vila da Penha,-22.838808,-43.295030
+Recanto das Palmeiras - Jardim São Luiz,05h à 01h,06h às 22h,Estrada dos Bandeirantes,2487,Taquara,-22.948269,-43.372440
+Rede Sarah,05h à 01h,05h às 22h,Avenida Embaixador Abelardo Bueno,1500,Barra da Tijuca,-22.973335,-43.376679
+Rio 2,24h,06h às 22h,Avenida Embaixador Abelardo Bueno,2200,Barra da Tijuca,-22.973222,-43.382816
+Santa Efigênia,05 às 23h,06h às 22h,Estrada dos Bandeirantes,1405,Taquara,-22.936640,-43.371810
+Santa Luzia,24h,24h,Avenida dos Campeões,81,Ramos,-22.854851,-43.253291
+Tanque,24h,24h,Rua Cândido Benício,4183,Praça Seca,-22.915568,-43.361406
+Taquara,24h,24h,Estrada dos Bandeirantes,175,Taquara,-22.924175,-43.373898
+Terminal Bandeira Brasil,,,Estrada dos Bandeirantes,106,Taquara,-22.923653,-43.374319
+Terminal Fundão - Aroldo Melodia,24h,24h,Avenida Brigadeiro Trompowski - Cidade Universitária,,Ilha do Governador,-22.839251,-43.239903
+Terminal Mestre Candeia,,,Rua Cândido Benício,4165,Praça Seca,-22.915674,-43.361068
+Terminal Paulo da Portela,04h às 23h,04h às 23h,Rua Padre Manso,203,Madureira,-22.877548,-43.337287
+Vaz Lobo,24h,06h às 22h,Avenida Vicente de Carvalho,27,Vila Cosmos,-22.856482,-43.328185
+Via Parque,24h,24h,Avenida Ayrton Senna,2541,Barra da Tijuca,-22.983946,-43.365739
+Vicente de Carvalho,24h,Parador: 24h,Avenida Vicente de Carvalho,739,Vicente de Carvalho,-22.852653,-43.312762
+Vila Kosmos - Nossa Senhora do Carmo,24h,06h às 22h,Avenida Vicente de Carvalho,970,Vila Cosmos,-22.849690,-43.308003
+Vila Queiroz,5h à 01h,06h às 22h,Avenida Ministro Edigar Romero,730,Madureira,-22.861410,-43.330398
+Vila Sapê - IV Centenário,24h,06h às 22h,Estrada dos Bandeirantes,2633,Jacarepaguá,-22.952199,-43.374597
